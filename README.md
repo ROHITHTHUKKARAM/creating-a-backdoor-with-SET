@@ -56,7 +56,9 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 ```bash
 sudo setoolkit
 ```
-<img width="1570" height="1017" alt="image" src="https://github.com/user-attachments/assets/4d277a8e-7443-4335-9157-36d438e79ad6" />
+<img width="955" height="1079" alt="Screenshot 2026-08-25 141039" src="https://github.com/user-attachments/assets/0a2e9730-ee82-4988-9bbf-d6f7d9b6385d" />
+
+
 
 **2. Navigate:**
 ```bash
@@ -64,9 +66,9 @@ sudo setoolkit
 2) Website Attack Vectors  
 3) Credential Harvester Attack Method  
 ```
-<img width="1358" height="350" alt="image" src="https://github.com/user-attachments/assets/67275c15-3dbc-4ebd-8969-97c812364078" />
-
-<img width="1112" height="507" alt="image" src="https://github.com/user-attachments/assets/fe1dc7a8-8ac1-4fa5-b0b7-0051569d60ce" />
+<img width="958" height="1079" alt="Screenshot 2026-08-25 134048" src="https://github.com/user-attachments/assets/67fbc883-de1e-4c07-927e-51f8e2d92dea" />
+<img width="956" height="1079" alt="Screenshot 2026-08-25 134201" src="https://github.com/user-attachments/assets/cc67da71-4886-4cc9-9fad-abf164194388" />
+<img width="958" height="1079" alt="Screenshot 2026-08-25 134308" src="https://github.com/user-attachments/assets/c4379a3a-7055-4fbc-b288-86e9a7049f8a" />
 
 
 **3. Enter your IP address as the attacker server.**
@@ -74,21 +76,26 @@ sudo setoolkit
 ```bash
 2) Site Cloner
 ```
-<img width="826" height="332" alt="image" src="https://github.com/user-attachments/assets/0d7df89b-8a06-4e88-919c-95a2accc929d" />
+<img width="959" height="1079" alt="Screenshot 2026-08-25 134443" src="https://github.com/user-attachments/assets/74e76cdc-9424-47cb-b539-23658b6b223b" />
+
 
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
-<img width="743" height="347" alt="image" src="https://github.com/user-attachments/assets/87ba188f-867c-4e90-8462-d42cdfc6b440" />
+<img width="953" height="117" alt="Screenshot 2026-08-25 135012" src="https://github.com/user-attachments/assets/5ccf1ce1-ecdb-4825-8116-fc38038151b9" />
+
 
 
 **6. Send the generated link to the victim.**
-<img width="1920" height="1051" alt="Bharath6384_creating-a-backdoor-with-SET_ Ethical Hacking Lab EX-07 - Google Chrome 27-09-2025 09_34_52" src="https://github.com/user-attachments/assets/7da000b0-958a-4a92-8d55-d38942b3a0b7" />
+<img width="957" height="1079" alt="Screenshot 2026-08-25 140359" src="https://github.com/user-attachments/assets/c8c80540-774b-4310-94da-a132c47cd742" />
+
+
 
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-<img width="542" height="141" alt="image" src="https://github.com/user-attachments/assets/f6bf61fa-3361-454a-a7c1-42ff9963ca68" />
+<img width="958" height="1079" alt="Screenshot 2026-08-25 140422" src="https://github.com/user-attachments/assets/63f10f00-bfd6-466c-9d5e-1aa6d15bd92a" />
+
 
 
 
