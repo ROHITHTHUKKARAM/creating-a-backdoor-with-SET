@@ -80,7 +80,8 @@ sudo setoolkit
 
 
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
-<img width="953" height="117" alt="Screenshot 2026-08-25 135012" src="https://github.com/user-attachments/assets/5ccf1ce1-ecdb-4825-8116-fc38038151b9" />
+<img width="958" height="1079" alt="Screenshot 2026-08-25 141425" src="https://github.com/user-attachments/assets/75879666-0547-4a5e-a844-89544a029f20" />
+
 
 
 
